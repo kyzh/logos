@@ -4,6 +4,8 @@ A list of place where you can find logos
 ## 
 ### GitLab
 https://about.gitlab.com/press/
+#### Gitlab CI
+https://gitlab.com/uploads/project/avatar/14288/icon_gitlab_ci.png
 
 ## Database and data store
 ### MySQL
